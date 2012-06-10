@@ -1,0 +1,8 @@
+{
+	"name": "virgin-scraper",
+	"dependencies": {
+		"async":"",
+		"jsdom":""
+	},
+	"version":"0.0.1"
+}
